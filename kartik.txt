@@ -1,3 +1,4 @@
 Performing successive commits
 1. My first good commit
 2. My first bad commit
+3. HAHAHA
