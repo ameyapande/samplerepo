@@ -2,4 +2,3 @@ Performing successive commits
 1. My first good commit
 2. My first bad commit
 3. My second bad commit
-4. My third bad commit
